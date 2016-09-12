@@ -1,6 +1,6 @@
 {
   "name": "css2obj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tagged template literal that takes CSS and returns a JavaScript object suitable for free-style",
   "author": "staltz",
   "license": "MIT",
