@@ -5,6 +5,7 @@
   "author": "staltz",
   "license": "MIT",
   "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "pretest": "npm run lib",
     "test": "ava",
